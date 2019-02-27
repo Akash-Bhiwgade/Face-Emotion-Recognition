@@ -1,7 +1,6 @@
 import numpy as np
 
 filname = 'fer2013.csv'
-label_map = ['Anger', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
 
 X = []
 Y = []
