@@ -7,7 +7,7 @@ Use face emotion recognition dataset to recognize the emotions from a live video
 Our plan of action is a 4 step process as below
 
 ### 1) Install below requisites:
-a) OpenCV
+    a) OpenCV
 b) Keras with Tensorflow as backend
 c) Numpy
 
